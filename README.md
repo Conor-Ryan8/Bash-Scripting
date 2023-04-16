@@ -1,2 +1,2 @@
-# Bash-Scripting
-Udemy Course - Bash Scripting
+# Shell Scripting
+Udemy Course - Shell Scripting
